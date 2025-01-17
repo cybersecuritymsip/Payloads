@@ -1,6 +1,5 @@
 /robots.txt
 /humans.txt
-/style.css
 /configuration.php
 wp-login.php
 wp-admin.php
